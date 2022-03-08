@@ -1,5 +1,19 @@
 # @midwayjs/hooks-kit
 
+## 3.0.0-rc.12
+
+### Patch Changes
+
+- e1feaea: Fix #239, use tuple to validate input args and update docs
+- 3d6e603: Fix [#241](https://github.com/midwayjs/hooks/issues/241)
+- Updated dependencies [e1feaea]
+- Updated dependencies [3d6e603]
+  - @midwayjs/hooks@3.0.0-rc.12
+  - @midwayjs/hooks-core@3.0.0-rc.12
+  - @midwayjs/esrun@3.0.0-rc.12
+  - @midwayjs/hooks-bundler@3.0.0-rc.12
+  - @midwayjs/serve@3.0.0-rc.12
+
 ## 3.0.0-rc.11
 
 ### Patch Changes
